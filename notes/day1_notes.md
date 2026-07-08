@@ -15,3 +15,16 @@ localhost 127.0.0.1 = loopback network interface
 Today I captured packets using Wireshark.
 I saw DNS/TCP traffic.
 I learned source IP, destination IP, and protocol.	
+
+learn about python library pathlib - uesd for nmap parse
+
+[ ] WSL2/Ubuntu or VM ready
+[ ] cyber-practice folder created
+[ ] Nmap installed
+[ ] Localhost scan completed
+[ ] Nmap result saved
+[ ] Simple scan report written
+[ ] Python file reader script completed
+[ ] Python Nmap parser completed
+[ ] Wireshark opened and DNS/TCP observed
+[ ] Git commit created
