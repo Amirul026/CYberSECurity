@@ -1,4 +1,4 @@
-#Day 2 - Linux Command and Bandit 0-
+#Day 2 - Linux Command and Bandit 0-17
 
 
 ##bandit 0
